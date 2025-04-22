@@ -1,0 +1,1 @@
+<img src="{{ asset('images/user.jpg') }}" alt="Logo" class="h-6 w-auto block mx-auto" />
